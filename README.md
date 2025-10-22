@@ -95,13 +95,6 @@ The script will automatically **create synthetic data** for testing if no CSV fi
 
 ---
 
-## 🧾 Resume Highlights
-- A **neural-network-based controller** was developed and trained that would control the entire greenhouse through the use of IoT sensor data.  
-- The actions were first selected through the **classification** method and then the actuators were controlled through the **regression** method while attaining X% accuracy and Y MAE.  
-- An all-inclusive **AI pipeline** was created that consisted of preprocessing, model training, evaluation, and ready-to-deploy model export.  
-
----
-
 ##  Future Enhancements
 - Real IoT sensors such as DHT11, CO₂, LDR, soil probe will be integrated to perform live inference.  
 - Raspberry Pi or ESP32 with TensorFlow Lite will be the target deployment platform.  
