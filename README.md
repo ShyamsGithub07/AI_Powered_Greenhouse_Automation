@@ -105,10 +105,8 @@ The script will automatically **create synthetic data** for testing if no CSV fi
 
 ## 📂 Project Structure
 ```
-greenhouse_ai_/
-│
 ├── greenhouse_ai_.py          # Main training and inference script
-├── greenhouse_data_.csv       # Dataset (optional)
+├── greenhouse_data_.csv       
 ├── models/
 │   ├── greenhouse_classifier/
 │   └── greenhouse_regressor/
